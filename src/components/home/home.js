@@ -18,7 +18,7 @@ function home(props) {
                 <Grid container item xs={10} md={4}>
                     <img className="imagestyle"src={logo} alt="Codelab Logo" />
                     <p class="txtf">
-                        We’re a team of driven software developers at UC Davis building projects for companies and non-profits.
+                        We are a team of driven software developers at UC Davis building projects for companies and non-profits.
                     </p>
                 </Grid>
                 <Grid container item xs={1}/>
